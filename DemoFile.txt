@@ -9,3 +9,4 @@ change to fix bug2.
 changes made from team mates as a master.
 change for CR1.
 change for stash in progress
+Change to check conflict
