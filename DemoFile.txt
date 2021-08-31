@@ -1,10 +1,11 @@
 
 My Company is ...
-change made to fix bug1 .
+ 
+change made to fix bug1.
 change made for Master demo.
 My Company is...
 change made to fix bug1.
 change to fix bug2.
-
-changes made from team mates as a master
+changes made from team mates as a master.
+change for CR1.
 
